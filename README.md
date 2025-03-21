@@ -2,8 +2,7 @@
 
 ![Banner](https://img.shields.io/badge/Network%20Speed-Flutter%20Plugin-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=flat-square)
-![Version](https://img.shields.io/badge/Version-0.0.1-green?style=flat-square)
-[![Pub](https://img.shields.io/badge/Pub-Coming%20Soon-orange?style=flat-square)](https://pub.dev/)
+[![Pub](https://img.shields.io/badge/Pub-network_speed-orange?style=flat-square)](https://pub.dev/packages/network_speed)
 
 A high-performance Flutter plugin that enables real-time network speed monitoring for both Android and iOS platforms. Check internet connection speed with precision and optimize your app's network-dependent features! ⚡
 
@@ -152,9 +151,9 @@ double customDownloadTest = await NetworkSpeed.runDownloadSpeedTest(
 
 <table>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/250x500?text=Current+Speed" alt="Current Speed"/></td>
-    <td align="center"><img src="https://via.placeholder.com/250x500?text=History" alt="History"/></td>
-    <td align="center"><img src="https://via.placeholder.com/250x500?text=Speed+Test" alt="Speed Test"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/499358a2-107c-4b72-82ad-5be34eaf7e45" alt="Current Speed"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/628537a6-6192-413c-9135-a206d9bcfdf4" alt="History"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/60e819dc-229c-4165-b702-b39b5d1e6b42" alt="Speed Test"/></td>
   </tr>
   <tr>
     <td align="center">Current Speed</td>
@@ -208,10 +207,6 @@ Contributions are welcome! Feel free to submit issues or pull requests if you ha
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ✨ Author
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
