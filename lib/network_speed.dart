@@ -61,7 +61,6 @@ class NetworkSpeed {
   /// Returns download speed in Mbps
   static Future<double> runDownloadSpeedTest({String? testFileUrl}) async {
     final Map<dynamic, dynamic> args = {'testFileUrl': testFileUrl};
-    await _channel.invokeMethod('runDownloadSpeedTest', args);
     final double speed =
         await _channel.invokeMethod('runDownloadSpeedTest', args);
     return speed;
