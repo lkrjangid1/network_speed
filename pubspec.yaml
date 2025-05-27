@@ -1,6 +1,6 @@
 name: network_speed
 description: A Flutter plugin to check internet speed in real-time for both Android and iOS platforms.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lkrjangid1/network_speed
 
 environment:
